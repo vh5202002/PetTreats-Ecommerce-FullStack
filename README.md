@@ -3,9 +3,10 @@
 
 Pet treats e-commerce is an online platform that provides a convenient way to shop for and purchase pet treats. The website provides multiple payment options for customer convenience and has a detailed product catalog for customers to choose suitable products based on the keyword. 
 
+## Development tools_
+      React, Node.js, Postman, Redux, JWT, Cloudinary and MongoDB.
 
-## Functions
-      Using React, Node.js, Postman, Redux, JWT, Cloudinary and MongoDB.
+## Functions_
       Create routes and Error handler middleware. 
       Create actions, constant and reducers with Redux. 
       Used MongoDB store database. 
