@@ -12,9 +12,8 @@ Discover More: Links to my Medium and GitHub Profile
 Contact: Allow users to leave their contact information
 
 ## Functions
-•	Using React, Node.js, Postman, Redux, JWT, Cloudinary and MongoDB.
-•	Create routes and Error handler middleware. 
-•	Create actions, constant and reducers with Redux. 
-•	Used MongoDB store database. 
-•	Developed login, payment, cart, review and order functions. 
-![image](https://user-images.githubusercontent.com/37912868/215895699-90da1a0d-bc52-4104-82a3-8a735b9c6b4d.png)
+  •	Using React, Node.js, Postman, Redux, JWT, Cloudinary and MongoDB.
+  •	Create routes and Error handler middleware. 
+  •	Create actions, constant and reducers with Redux. 
+  •	Used MongoDB store database. 
+  •	Developed login, payment, cart, review and order functions. 
