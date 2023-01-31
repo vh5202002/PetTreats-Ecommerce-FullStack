@@ -5,8 +5,8 @@ Pet treats e-commerce is an online platform that provides a convenient way to sh
 
 
 ## Functions
-   •	Using React, Node.js, Postman, Redux, JWT, Cloudinary and MongoDB.
-   •	Create routes and Error handler middleware. 
-    •	Create actions, constant and reducers with Redux. 
-   •	Used MongoDB store database. 
-    •	Developed login, payment, cart, review and order functions. 
+      Using React, Node.js, Postman, Redux, JWT, Cloudinary and MongoDB.
+      Create routes and Error handler middleware. 
+      Create actions, constant and reducers with Redux. 
+      Used MongoDB store database. 
+      Developed login, payment, cart, review and order functions. 
